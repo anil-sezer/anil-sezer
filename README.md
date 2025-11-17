@@ -40,7 +40,7 @@
 
 <h2 align="center">🖼️ Website (Portfolio) 🖼️</h2>
 <p align="center">
-    There is also a website that acts as my portfolio. <br>
+    There is also a <a href="https://www.anil-sezer.com/" target="_blank">website</a> that acts as my portfolio. <br>
     It is also a window to my cluster as it shows how many pods, nodes, services, cronjobs are there. <br>
     I opted to use minimal js in here to hone my skills on Blazor.<br><br>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,bootstrap,html,css,js"/>
@@ -51,7 +51,7 @@
 <h2 align="center">️⚡ Electronics ⚡</h2>
 <p align="center">
     When I have time, I love to tinker with electronics. <br>
-    I made a sunrise alarm clock, a kegerator and other small gizmos. <br><br>
+    <a href="https://github.com/anil-sezer/IoTs" target="_blank">I made</a> a sunrise alarm clock, a kegerator and other small gizmos. <br><br>
     <img src="https://skillicons.dev/icons?i=arduino,cpp,c"/>
 <p>
 
