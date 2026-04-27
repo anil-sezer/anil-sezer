@@ -7,7 +7,7 @@
 
 - 🖼️ I always wanted to do artsy, animated websites. So mastering frontend is on my list too.
 
-- 💬 Ask me about anything [here](https://www.anil-sezer.com/#contact) or on [LinkedIn](https://www.linkedin.com/in/anilsezer/)
+- 💬 Ask me about anything [here](https://www.anil-sezer.com/#contact) or on [LinkedIn](https://www.linkedin.com/in/anil-sezer/)
 
 <hr>
 
