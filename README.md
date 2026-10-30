@@ -27,7 +27,7 @@ I like owning the whole path: write the service, containerize it, deploy it, the
 - It hosts [anilsezer.net](https://anilsezer.net) (.NET 10 + Blazor, gRPC backend), my private image registry and a few Go cron jobs.
 - Traefik + MetalLB + cert-manager in front, Authentik for login, OpenTelemetry + Prometheus + Grafana for watching it all. Traces are a must.
 
-👉 Code, manifests and the playbook are all in [**Portfolio**](https://github.com/anil-sezer/Portfolio) ([Ansible playbook](https://github.com/anil-sezer/Portfolio/tree/prod/ansible-prepare-k8s-cluster) · [k8s manifests](https://github.com/anil-sezer/Portfolio/tree/prod/kubernetes))
+⭐⭐⭐ Code, manifests and the playbook are all in [**Portfolio**](https://github.com/anil-sezer/Portfolio) ([Ansible playbook](https://github.com/anil-sezer/Portfolio/tree/prod/ansible-prepare-k8s-cluster) · [k8s manifests](https://github.com/anil-sezer/Portfolio/tree/prod/kubernetes)) ⭐⭐⭐
 
 ---
 
@@ -42,4 +42,4 @@ I like owning the whole path: write the service, containerize it, deploy it, the
 
 [anilsezer.net](https://anilsezer.net) · [LinkedIn](https://www.linkedin.com/in/anil-sezer/)
 
-Open to remote roles and relocation across EMEA & North America.
+**Open to remote roles and relocation across EMEA & North America.**
