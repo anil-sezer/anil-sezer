@@ -1,4 +1,4 @@
-# Hi, I'm Anıl 👋
+# Hi! I'm Anil
 
 **Senior Backend & Platform Engineer** from Istanbul. 7+ years building backend systems in C# / .NET, 4 years running Kubernetes, including one cluster that lives on my desk.
 
