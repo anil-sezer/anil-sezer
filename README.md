@@ -1,66 +1,45 @@
+# Hi, I'm Anıl 👋
 
-<h1 align="center">✨ About me</h1>
+**Senior Backend & Platform Engineer** from Istanbul. 7+ years building backend systems in C# / .NET, 4 years running Kubernetes, including one cluster that lives on my desk.
 
-- 😀 My name is Anil Sezer
+I like owning the whole path: write the service, containerize it, deploy it, then watch it on a Grafana dashboard.
 
-- ❤️ I'm a full-stack developer with a passion for backend and DevOps.
-
-- 🖼️ I always wanted to do artsy, animated websites. So mastering frontend is on my list too.
-
-- 💬 Ask me about anything [here](https://www.anil-sezer.com/#contact) or on [LinkedIn](https://www.linkedin.com/in/anil-sezer/)
-
-<hr>
-
-<h1 align="center">️🧱 My previous experiences 🧱</h1>
-<p align="center">
-  I like working with new tech I haven't experienced. <br>
-  Lessons I learn from them improves my craft.  <br><br> 
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,symfony,go" /> <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,aws,jenkins,bash" /> <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,remix,nodejs" /> <br>
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr" /> <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" /> <br>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,c" /> <br>
-  <img src="https://skillicons.dev/icons?i=rider,phpstorm,vscode,postman" />
 <p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,kafka,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,prometheus,grafana,linux" />
+</p>
 
-<hr>
+---
 
-<h2 align="center">🚀 Bare Metal Kubernetes Cluster! 🚀</h2>
-<p align="center">
-    I set my cluster on 3 <strong>Raspberry Pi</strong>'s, <br>
-    <strong>Ubuntu Server</strong> as OS, <br>
-    <strong>Docker</strong> for image registry & building, <br>
-    <strong>Vanilla Kubernetes</strong> for learning much, <br>
-    <strong>Ansible</strong> for fully automating the entire thing. <br><br>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,ubuntu,docker,kubernetes,ansible"/>
-<p>
+### 🛠️ What I've been up to
 
-<hr>
+- **DolapJet** (smart lockers & delivery): redesigned the architecture across 7 repos and tied the backend, the lockers out in the field and the Flutter apps into one system. I also lead hiring and mentoring.
+- **United Payment & Moka** (fintech): built a new microservice for cross-border payments between the UK and Turkey, and helped the .NET and DevOps teams move to Kubernetes together.
+- **Panjur Bilişim**: kept 3 brands running on the same 12-year-old codebase at 99.9%+ uptime while bringing in Kafka and .NET 6. Got lots of Kubernetes training from this nice company too.
 
-<h2 align="center">🖼️ Website (Portfolio) 🖼️</h2>
-<p align="center">
-    There is also a <a href="https://www.anil-sezer.com/" target="_blank">website</a> that acts as my portfolio. <br>
-    It is also a window to my cluster as it shows how many pods, nodes, services, cronjobs are there. <br>
-    I opted to use minimal js in here to hone my skills on Blazor.<br><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,bootstrap,html,css,js"/>
-<p>
+---
 
-<hr>
+### 🚀 The cluster on my desk
 
-<h2 align="center">️⚡ Electronics ⚡</h2>
-<p align="center">
-    When I have time, I love to tinker with electronics. <br>
-    <a href="https://github.com/anil-sezer/IoTs" target="_blank">I made</a> a sunrise alarm clock, a kegerator and other small gizmos. <br><br>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,c"/>
-<p>
+5 Raspberry Pis + a NAS, running vanilla Kubernetes with **64+ pods**. After I built it, I found out this is called *"Kubernetes the hard way"*. 🙂
 
-<hr>
+- The whole thing comes up with **one Ansible command**, so when I break it beyond repair, I just reset it and try again.
+- It hosts [anilsezer.net](https://anilsezer.net) (.NET 10 + Blazor, gRPC backend), my private image registry and a few Go cron jobs.
+- Traefik + MetalLB + cert-manager in front, Authentik for login, OpenTelemetry + Prometheus + Grafana for watching it all. Traces are a must.
 
-<h2 align="center">️🛍️ I also made a shopify app! 🛍️</h2>
-<p align="center">
-    For people to try out their garments before buying, we created an AI tryon app! <br>
-    I will deploy it in early September, to Europe and USA with AWS. <br>
-    Full tech stack is at below: <br><br>
-    <img src="https://skillicons.dev/icons?i=remix,react,nodejs,js,typescript,html,css,dotnet,aws,kubernetes,docker"/>
-<p>
+👉 Code, manifests and the playbook are all in [**Portfolio**](https://github.com/anil-sezer/Portfolio) ([Ansible playbook](https://github.com/anil-sezer/Portfolio/tree/prod/ansible-prepare-k8s-cluster) · [k8s manifests](https://github.com/anil-sezer/Portfolio/tree/prod/kubernetes))
+
+---
+
+### ⚡ Side quests
+
+- **[IoTs](https://github.com/anil-sezer/IoTs)**: when I have time, I tinker with electronics. A sunrise alarm clock, focus timeer, a kegerator and other small gizmos (Arduino, C++).
+- **Still on my list**: artsy, animated websites. One day.
+
+---
+
+### 💬 Say hi
+
+[anilsezer.net](https://anilsezer.net) · [LinkedIn](https://www.linkedin.com/in/anil-sezer/)
+
+Open to remote roles and relocation across EMEA & North America.
