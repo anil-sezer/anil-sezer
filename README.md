@@ -2,7 +2,7 @@
 
 **Senior Backend & Platform Engineer** from Istanbul. 7+ years building backend systems in C# / .NET, 4 years running Kubernetes, including one cluster that lives on my desk.
 
-I like owning the whole path: write the service, containerize it, deploy it, then watch it on a Grafana dashboard.
+I like owning the whole path: write the service, containerize it, deploy it, then watch it on a Grafana & Jaeger dashboards.
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,kafka,mysql" /><br>
